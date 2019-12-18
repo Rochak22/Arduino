@@ -19,9 +19,7 @@ Configuration :-
 -> After making the connections with lcd, connect your arduino device with your system.
 
 Note :- 
-(While making connection make sure the bluetooth txd and rxd is not connected before uploading the code,
- After uploading the code in the arduino, connect rxd and txd respectively. There will be an error while uploading the code
- if txd and rxd is connected)
+(While making connection make sure the bluetooth txd and rxd is not connected before uploading the code,After uploading the code in the arduino, connect rxd and txd respectively. There will be an error while uploading the codeif txd and rxd is connected)
  --------------------------------------------------------------------------------------------------------------------------
 -> Download an android app for speech recognition
    Search - Arduino voice recognition on googleplay 
@@ -30,6 +28,7 @@ Note :-
 -> Connect your mobile device with the bluetooth module with the name HC-05 and password will be either 0000 or 1234.
 ---------------------------------------------------------------------------------------------------------------------------
 -> Now open CoolTermWin software
+
 -> Click on Connection
    Then Options
    Then Click on Re-scan Serial Ports to scan for the port in which arduino is connected.
@@ -38,6 +37,7 @@ Note :-
  
  -> Click on Connect
  To capture all records in a file :-
+ 
  -> Click on Connection
  -> Capture to text file
  -> Start 
